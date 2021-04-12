@@ -1,1 +1,1 @@
-https://github-readme-stats.vercel.app/api?username=ianbeltrao&theme=great-gatsby&show_icons=true
+https://github-readme-stats.vercel.app/api?username=ianbeltrao&theme=dark&show_icons=true

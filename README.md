@@ -4,4 +4,3 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianbeltrao&show_icons=true&theme=great-gatsby&count_private=true" />
 </a>
-https://www.codewars.com/users/ianbeltrao/badges/large
